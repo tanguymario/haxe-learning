@@ -1,0 +1,3 @@
+-cp src
+foo.MyLib
+-js lib.js
